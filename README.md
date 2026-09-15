@@ -156,7 +156,6 @@ For the assessment/presentation day itself:
 ---
 ## 7. Screenshots of app working 
 
-*(Replace the placeholders below with actual screenshots once captured — save them into `docs/screenshots/` using the same filenames.)*
 
 | View | Screenshot |
 | --- | --- |
